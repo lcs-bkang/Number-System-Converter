@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		A680424A25C0A69C00B72228 /* Number System Converter */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Number System Converter"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A680424D25C0A69C00B72228 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		A680426B25C85EE000B72228 /* Solution.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Solution.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				A680424D25C0A69C00B72228 /* main.swift */,
+				A680426B25C85EE000B72228 /* Solution.playground */,
 			);
 			path = "Number System Converter";
 			sourceTree = "<group>";
